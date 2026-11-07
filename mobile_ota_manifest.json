@@ -1,9 +1,9 @@
 {
   "apkVersionCode": 110,
   "apkVersionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/아이디어팩토리_네이버플레이스_모바일부스터_v1.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/place_booster_m.apk",
   "hotpatchVersion": 110,
-  "hotpatchNote": "플레이스 부스터M v1.1.0 - 30슬롯 쿠키금고 + 100위 정밀탐색 + 4대 페르소나 체류",
+  "hotpatchNote": "플레이스 부스터M v1.1 (24시간 포그라운드 서비스 + 30슬롯 쿠키금고 + 4대 페르소나 + 길찾기·전화·저장 비콘 + 자동업데이트)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
