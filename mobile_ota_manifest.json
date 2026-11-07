@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 111,
-  "apkVersionName": "1.1.1",
+  "apkVersionCode": 112,
+  "apkVersionName": "1.1.2",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/place_booster_m.apk",
-  "hotpatchVersion": 111,
-  "hotpatchNote": "플레이스 부스터M v1.1.1 (초고속 점프 스크롤 제거 + 실제 사람 시선 속도 저속 사인곡선 가감속 스크롤 엔진 적용)",
+  "hotpatchVersion": 112,
+  "hotpatchNote": "플레이스 부스터M v1.1.2 (영수증 캡차/보안문자 4단계 실시간 감지 + 허수 타수 집계 원천 차단 + 오염 쿠키 자동 초기화 패치)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
