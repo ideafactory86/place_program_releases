@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 112,
-  "apkVersionName": "1.1.2",
+  "apkVersionCode": 120,
+  "apkVersionName": "1.2.0",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/place_booster_m.apk",
-  "hotpatchVersion": 112,
-  "hotpatchNote": "플레이스 부스터M v1.1.2 (영수증 캡차/보안문자 4단계 실시간 감지 + 허수 타수 집계 원천 차단 + 오염 쿠키 자동 초기화 패치)",
+  "hotpatchVersion": 120,
+  "hotpatchNote": "플레이스 부스터M v1.2.0 아르곤 엔진 (10대 기술규칙 전면 적용: 물리 하드웨어 터치 isTrusted:true + 6중 실시간 캡차감지/실패집계 + 쿠키 전후 실측소거 + 최근 5개 IP 전광판 + PC형 사이클 제어 + 저속 코사인 스크롤)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
