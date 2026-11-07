@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 110,
-  "apkVersionName": "1.1.0",
+  "apkVersionCode": 111,
+  "apkVersionName": "1.1.1",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/place_booster_m.apk",
-  "hotpatchVersion": 110,
-  "hotpatchNote": "플레이스 부스터M v1.1 (24시간 포그라운드 서비스 + 30슬롯 쿠키금고 + 4대 페르소나 + 길찾기·전화·저장 비콘 + 자동업데이트)",
+  "hotpatchVersion": 111,
+  "hotpatchNote": "플레이스 부스터M v1.1.1 (초고속 점프 스크롤 제거 + 실제 사람 시선 속도 저속 사인곡선 가감속 스크롤 엔진 적용)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
