@@ -1,9 +1,9 @@
 {
-  "apkVersionCode": 120,
-  "apkVersionName": "1.2.0",
+  "apkVersionCode": 130,
+  "apkVersionName": "1.3.0",
   "apkUrl": "https://raw.githubusercontent.com/ideafactory86/place_program_releases/main/place_booster_m.apk",
-  "hotpatchVersion": 120,
-  "hotpatchNote": "플레이스 부스터M v1.2.0 아르곤 엔진 (10대 기술규칙 전면 적용: 물리 하드웨어 터치 isTrusted:true + 6중 실시간 캡차감지/실패집계 + 쿠키 전후 실측소거 + 최근 5개 IP 전광판 + PC형 사이클 제어 + 저속 코사인 스크롤)",
+  "hotpatchVersion": 130,
+  "hotpatchNote": "플레이스 부스터M v1.3.0 아르곤 엔진 (원클릭 [📤로그전송] 오류 진단 리포트 전송 기능 + 클린 IPv4 최근 5개 IP 전광판 + 물리 하드웨어 터치 isTrusted:true + 6중 실시간 캡차감지/실패집계 탑재)",
   "hotpatchInitJs": "",
   "hotpatchEngageJs": ""
 }
